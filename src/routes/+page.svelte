@@ -48,7 +48,7 @@
 <h1>SlugID Generator</h1>
 
 <h2>
-  SlugIDs are 22-character long base64 encoded UUIDs that are URL-safe.
+  SlugIDs are base64 encoded UUIDs that are 22 characters long and safe to use in URLs.
 </h2>
 
 <h2>

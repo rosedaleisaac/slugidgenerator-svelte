@@ -35,6 +35,10 @@
 
 	footer {
 		display: flex;
+  		justify-content: center;
+		font-size: 0.9rem;
+		text-align: center;
+		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
