@@ -1,39 +1,39 @@
-# slugidgenerator-svelte
-A svelte frontend app for generating slugids
+# SlugID Generator
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A simple Svelte page that allows the user to generate a single slugID or a group of 10 slugIDs using the slugid library.
 
-## Creating a project
+## Getting Started
 
-If you're seeing this, you've probably already done this step. Congrats!
+1. Clone the repository:
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+git clone https://github.com/rosedaleisaac/slugidgenerator-svelte
 ```
 
-## Developing
+2. Install the dependencies:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+```bash
+npm install
+```
+
+3. Run the development server:
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+4. Open the page in your browser at http://localhost:5000.
 
-To create a production version of your app:
+## Features
 
-```bash
-npm run build
-```
+- Generate a single slugID or a group of 10 slugIDs
+- Display the generated slugIDs in a text box
 
-You can preview the production build with `npm run preview`.
+## Dependencies
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- [Svelte](https://svelte.dev/)
+- [slugid](https://www.npmjs.com/package/slugid)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
