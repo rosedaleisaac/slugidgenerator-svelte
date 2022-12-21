@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-4. Open the page in your browser using the address shown in the terminal window.
+4. Open the page in your browser at http://localhost:5173 or the address shown in the terminal window.
 
 ## Features
 
