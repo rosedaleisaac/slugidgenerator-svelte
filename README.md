@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-4. Open the page in your browser at http://localhost:5000.
+4. Open the page in your browser using the address shown in the terminal window.
 
 ## Features
 
@@ -36,4 +36,4 @@ npm run dev
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details.
