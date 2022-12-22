@@ -1,6 +1,6 @@
 # SlugID Generator
 
-A simple Svelte page that allows the user to generate a single slugID or a group of 10 slugIDs using the slugid library.
+A simple Svelte page that allows the user to generate a single slugID or a group of 10 slugIDs using the slugid library. Currently deployed to https://slugidgenerator.com
 
 ## Getting Started
 
