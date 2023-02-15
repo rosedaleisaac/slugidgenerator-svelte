@@ -9,7 +9,7 @@ A simple Svelte page that allows the user to generate a single slugID or a group
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rosedaleisaac/slugidgenerator-svelte
+git clone https://github.com/rosedalerk/slugidgenerator-svelte
 ```
 
 2. Install the dependencies:
